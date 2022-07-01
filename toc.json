@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "type": "item",
+      "title": "Introduction",
+      "uri": "docs/intro/introduction.md"
+    },
+    {
+      "type": "divider",
+      "title": "Integrations"
+    },
+    {
+      "type": "item",
+      "title": "Shopify",
+      "uri": "docs/shopify/shopify-guide.md"
+    },
+    {
+      "type": "item",
+      "title": "Magento",
+      "uri": "docs/magento/magento-guide.md"
+    },
+    {
+      "type": "item",
+      "title": "WooCommerce",
+      "uri": "docs/woocommerce/woocommerce-guide.md"
+    },
+    {
+      "type": "item",
+      "title": "Introduction",
+      "uri": "docs/zapier/zapier-guide.md"
+    }
+  ]
+}
