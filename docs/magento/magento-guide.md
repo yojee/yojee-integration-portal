@@ -12,7 +12,7 @@
 
 ### Step 1: Install Yojee extension from [Magento Marketplace](https://marketplace.magento.com/)
 
-### Step 2: Log in into the Shopify Admin Page
+### Step 2: Log in into the Magento Admin Page
 
 ### Step 3: Go to Store > Configuration
 ![setup step 3](../../assets/images/magento/step1.png)
