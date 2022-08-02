@@ -61,6 +61,7 @@
 ### Step 7: Update company slug, access token, template id, pickup and dropoff date config and click on "Submit" button to save those information.
 
 ![Yojee Config Page](../../assets/images/shopify/update-setting.png)
+
 ![Update Yojee Config](../../assets/images/shopify/save-setting-success.png)
 
 ### Step 8: You have finished setting up the config. Close the page and go back to admin page, you should be able to Yojee App on the left panel.
