@@ -64,6 +64,36 @@
 
 ![Update Yojee Config](../../assets/images/shopify/save-setting-success.png)
 
-### Step 8: You have finished setting up the config. Close the page and go back to admin page, you should be able to Yojee App on the left panel.
+### Step 8: You have finished setting up the config. Close the page and go back to admin page, you should be able to see Yojee App on the left panel.
 
 ![Completed](../../assets/images/shopify/finished.png)
+
+## How to use Yojee app
+
+### Step 1: To send order from your shopify store to Yojee platform, click on the "Yojee Orders".
+
+![Order Listing Page](../../assets/images/shopify/order-list.png)
+
+### Step 2: Click on the "View Details" link to review the order before sending a request to Yojee.
+
+#### NOTE:
+
+- If an order has yet to send to Yojee platform, the status will be = `waiting`. Once clicked on the "View Details" link, you should be able to see the **available action buttons** at the bottom of the page.
+- Once an order has been sent to Yojee platform, the status will be updated to `accepted` and tracking URL will be available to track the order.
+- The status will be updated to `completed` when an order has been delivered to your customer.
+
+![View Details Link](../../assets/images/shopify/view-details-link.png)
+
+![View Details Link](../../assets/images/shopify/update-send-order.png)
+
+### Step 3: To update any details before sending request to Yojee, proceed to Step 3(a). Otherwise, proceed to Step 4.
+
+#### Step 3(a): To update details, click on the "Update Detail" button, and click on the "Save" button to save the changes.
+
+![Update Detail](../../assets/images/shopify/update-details.png)
+
+![Update Detail Successful](../../assets/images/shopify/update-details-success.png)
+
+### Step 4: Click on the "Send order request" to send your delivery order to Yojee. You will be able to see successful message as shown below.
+
+![Send Order](../../assets/images/shopify/send-order-success.png)
