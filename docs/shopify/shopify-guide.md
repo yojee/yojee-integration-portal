@@ -5,52 +5,65 @@
   <a href="https://yojee.com/">
     <img src="https://yojee.com/wp-content/uploads/2021/11/Logo-1.png" alt="Logo" width="200" height="80">
   </a>
-<h3 align="center">Shopify Plugin Guidance</h3>
+<h3 align="center">Shopify - Yojee Setup Guide</h3>
 </div>
 
 <!-- PLUGIN OVERVIEW -->
-## Plugin Overview
 
-Yojee Shopify plugin helps Shopify sellers to manage their orders through Yojee System.
+## How it works
 
-There are following main features in this plugin:
-* Installing the app via Shopify Marketplace
-* Allow sellers to update their Yojee credentials (company_slug, access_token, sender_id)
-* Fulfill orders by using Yojee System
-* Tracking order real time, printing shipping label, sending tracking url and order status to customer
-* Preview Order and provide updating some order dimensions (width, height, length) and weight
+1. From your Shopify admin portal, download the Yojee app.
+2. Yojee will prompt for information to connect the Yojee dispatcher platform to your Shopify account.
+3. Upon successful configuration, you will be able to send every delivery order to the Yojee dispatcher platform for order fulfillment.
 
-## How to install Yojee Shopify Plugin
+## How to install Yojee app
 
-### Step 1: Log in into the Shopify Admin Page
-![img.png](main-page.png)
+### Step 1: Login into the Shopify Admin Page.
 
-### Step 2: Click on "Add app" button and then click on "Shopify App Store"
-![img.png](add-app-button.png)
+![Admin Portal](../../assets/images/shopify/main-page.png)
 
-![img.png](shopify-app-store-btn.png)
+### Step 2: Option 1
 
-### Step 3: In the Shopify App Store page, click on "Search apps" bar
+#### a. Click on "Add app" button and then click on "Shopify App Store".
 
-![img.png](search-bar.png)
+![Add apps](../../assets/images/shopify/add-app-button.png)
 
+![Shopify App Store](../../assets/images/shopify/shopify-app-store-btn.png)
 
-### Step 4: Type "Yojee" to search for Yojee Integration App and then select from the result
-(Upload content here when our app is available in Shopify App Store)
+#### b. In the Shopify App Store page, click on "Search apps" bar. Type "yojee" to search for Yojee app.
 
+![Admin Page search bar](../../assets/images/shopify/search-bar.png)
 
-### Step 5: Click on "Add app" button
+### Step 2: Option 2
 
-### Step 6: Click on "Install app" button
-(The button label will be "Install app" once our app is available in Shopify App Store)
-![img.png](install-app-btn.png)
+#### a. Click on the "Search" bar on top of the page and click on "Apps" icon. Once it is selected, type "yojee" in the search bar and hit enter.
 
-### Step 7: Click on "Update Config" button to enter Yojee Integration Credential Config
-![img.png](app-config-setting.png)
+![Search bar](../../assets/images/shopify/search-app-bar.png)
 
-### Step 8: Update company slug, access token, template id, pickup and dropoff date config  and click on "Submit"
-![img.png](update-setting.png)
-![img.png](save-setting-success.png)
+![Search yojee](../../assets/images/shopify/search-app-bar-yojee.png)
 
-### Step 9: You have finished setting up the config. Close the page, back to admin page, and you should see Yojee Integration App.
-![img.png](finished.png)
+### Step 3: Click on the result as shown below.
+
+![Yojee result](../../assets/images/shopify/search-yojee-app.png)
+
+### Step 4: Click on "Add app" button.
+
+![Add app](../../assets/images/shopify/add-yojee-app.png)
+
+### Step 5: Click on "Install app" button.
+
+![Install app](../../assets/images/shopify/install-app-btn.png)
+
+### Step 6: Click on "Update Config" button to enter Yojee Integration Credentials Config.
+
+![Yojee Initial Config Page](../../assets/images/shopify/app-config-setting.png)
+
+### Step 7: Update company slug, access token, template id, pickup and dropoff date config and click on "Submit" button to save those information.
+
+![Yojee Config Page](../../assets/images/shopify/update-setting.png)
+
+![Update Yojee Config](../../assets/images/shopify/save-setting-success.png)
+
+### Step 8: You have finished setting up the config. Close the page and go back to admin page, you should be able to Yojee App on the left panel.
+
+![Completed](../../assets/images/shopify/finished.png)
